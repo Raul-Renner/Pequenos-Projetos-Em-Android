@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListDadosMedico</string>
+    <string name="Sobre">sobre</string>
+    <string name="Configurações">configuracao</string>
+    <string name="remover">remover</string>
+    <string name="editar">editar</string>
+    <string name="adicionar">adicionar</string>
+    <string name="nome_medico">Nome</string>
+    <string name="areaAtuacao">Área Atuação</string>
+    <string name="especialidade">Especialização</string>
+    <string name="salvar">Salvar</string>
+    <string name="Cancelar">Cancelar</string>
+</resources>

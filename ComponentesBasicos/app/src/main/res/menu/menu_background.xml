@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:id="@+id/group_image_background"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/image_background_1"
+            android:orderInCategory="1"
+            android:title="imagem_background_1"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/image_background_2"
+            android:orderInCategory="2"
+            android:title="imagem_background_2"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/image_background_3"
+            android:orderInCategory="3"
+            android:title="imagem_background_3"
+            app:showAsAction="never"/>
+
+    </group>
+</menu>

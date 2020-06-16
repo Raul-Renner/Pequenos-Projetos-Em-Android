@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85127852901",
+    "firebase_url": "https://cad-medico1.firebaseio.com",
+    "project_id": "cad-medico1",
+    "storage_bucket": "cad-medico1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85127852901:android:0e2a9d15c095ccf720e78c",
+        "android_client_info": {
+          "package_name": "com.example.listdadosmedico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85127852901-tk6lm9vfis159c2qqpbve78id6qd7640.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQO-T8GWpyonKvAh6PqDqFtaDO8-KPNEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85127852901-tk6lm9vfis159c2qqpbve78id6qd7640.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

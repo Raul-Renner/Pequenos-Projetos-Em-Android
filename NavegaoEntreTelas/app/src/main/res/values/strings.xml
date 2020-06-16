@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavegaçãoEntreTelas</string>
+    <string name="Editar">Editar</string>
+    <string name="btn_cadastrar_medico">Cadastrar Medico</string>
+    <string name="text_crm_medico">Digite o CRM do médico para que queira editar</string>
+    <string name="nome_Medico">Nome Médico</string>
+    <string name="Especialidade">Especialidade</string>
+    <string name="area_atuacao">Área Atuação</string>
+    <string name="CRM">CRM</string>
+    <string name="Salvar">Salvar</string>
+    <string name="Cancelar">Cancelar</string>
+</resources>

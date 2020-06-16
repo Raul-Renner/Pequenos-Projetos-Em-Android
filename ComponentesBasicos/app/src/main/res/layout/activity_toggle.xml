@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityToggle">
+
+    <LinearLayout
+        android:id="@+id/lampada_off"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp"
+        tools:ignore="MissingConstraints"
+        >
+
+        <ImageView
+            android:id="@+id/img_lampada"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:padding="20dp"
+            app:srcCompat="@drawable/light_on" />
+
+        <ToggleButton
+            android:id="@+id/toggle_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:drawableStart="@drawable/selectores"
+            android:drawableLeft="@drawable/selectores"
+            android:gravity="center"
+            android:text="ToggleButton"
+            android:textOn="@string/text_on_ligar"
+            android:textOff="@string/text_off_desligar"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:gravity="bottom|end"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_voltar_activity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="voltarActivity"
+                android:text="@string/btn_voltar" />
+
+            <Button
+                android:id="@+id/btn_proxima_activiry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="proximaActivity"
+                android:text="@string/btn_proximo" />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ComponentesBasicos</string>
+    <string name="text_sobrenome">Sobrenome</string>
+    <string name="spinner_turno">Turno na qual você utiliza o laboratório?</string>
+    <string name="text_reg_qld_lab">Regular</string>
+    <string name="rad_otm_qld_lab">Otimo</string>
+    <string name="text_matricula">Matricula</string>
+    <string name="text_curso">Curso</string>
+    <string name="rad_ruim_qld_lab">Ruim</string>
+    <string name="ava_disp_lab">Qual sua Avaliação sobre a disponibilidade dos laboratorios?</string>
+    <string name="rad_otm_disp_lab">Otimo</string>
+    <string name="rad_reg_disp_lab">Regular</string>
+    <string name="rad_ruim_disp_lab">Ruim</string>
+    <string name="text_qld_lab">Qual sua Avaliação sobre a qualidade dos laboratórios?</string>
+    <string name="cadastrar_aluno">Cadastrar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_proximo">Proximo</string>
+    <string name="Opcoes">Opcoes</string>
+    <string name="text_off_desligar">Desligar</string>
+    <string name="text_on_ligar">Ligar</string>
+    <string-array name="turno">
+        <item>Manhã</item>
+        <item>Tarde</item>
+        <item>Noite</item>
+        <item>Manhã e Tarde</item>
+        <item>Manhã e Noite</item>
+        <item>Tarde e Noite</item>
+    </string-array>
+    <string name="title_activity_multiple_tabs">ActivityMultipleTabs</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="item1">item1</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+    <string name="voltar_ao_inicio">Voltar ao inicio</string>
+    <string name="voltar_pagina_anterior">pagina anterior</string>
+    <string name="brn_clique_long">clique longo</string>
+
+</resources>

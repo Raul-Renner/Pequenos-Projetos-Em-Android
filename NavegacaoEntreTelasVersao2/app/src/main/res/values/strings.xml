@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavegacaoEntreTelas-Aula5</string>
+    <string name="btn_add">Adcionar</string>
+    <string name="Deletar">Deletar</string>
+    <string name="Sobre">Sobre</string>
+    <string name="Configurações">Configurações</string>
+    <string name="Editar">Editar</string>
+</resources>
